@@ -5,7 +5,7 @@
 
 class Card : public Payment 
 {
-	
+	     
 protected:
  char cardType[10];
  int cardNumber; 
