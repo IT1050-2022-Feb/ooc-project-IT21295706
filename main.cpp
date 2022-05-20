@@ -1,5 +1,5 @@
 // *************Main Program************
-  
+
 #include <iostream>
 #include "GuestUser.h"
 #include "RegisteredUser.h"
